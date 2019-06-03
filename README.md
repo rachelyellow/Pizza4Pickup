@@ -6,13 +6,16 @@ A full-stack application that caters to hungry customers looking to order pizza,
 ## Final Product
 
 Build your own pizza!
+
 ![Pizza Creator](https://github.com/rachelyellow/Pizza4Pickup/blob/master/public/Screenshots_Pizza4Pickup/build-demo.gif?raw=true)
 
 
 Order Summary
+
 <img src ="https://github.com/rachelyellow/Pizza4Pickup/blob/master/public/Screenshots_Pizza4Pickup/Order%20Summary.png?raw=true" width="65%" >
 
 Restaurant side - Order confirmation
+
 ![Restaurants Page](https://github.com/rachelyellow/Pizza4Pickup/blob/master/public/Screenshots_Pizza4Pickup/Restaurant%20Page.png?raw=true)
 
 

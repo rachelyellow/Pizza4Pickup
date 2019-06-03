@@ -5,11 +5,9 @@ A full-stack application that caters to hungry customers looking to order pizza,
 
 ## Final Product
 
-![Pizza Homepage](https://github.com/wang790222/pizzaForPickup/blob/master/public/pizza_homepage.gif)
-![Ordered Pizzas](https://github.com/wang790222/pizzaForPickup/blob/master/public/Screenshots_Pizza4Pickup/Pizza%20Form.png?raw=true)
 ![Pizza Creator](https://github.com/rachelyellow/Pizza4Pickup/blob/master/public/Screenshots_Pizza4Pickup/build-demo.gif?raw=true)
-![Order Summary](https://github.com/wang790222/pizzaForPickup/blob/master/public/Screenshots_Pizza4Pickup/Order%20Summary.png?raw=true)
-![Restaurants Page](https://github.com/wang790222/pizzaForPickup/blob/master/public/Screenshots_Pizza4Pickup/Restaurant%20Page.png?raw=true)
+![Order Summary](https://github.com/rachelyellow/Pizza4Pickup/blob/master/public/Screenshots_Pizza4Pickup/Order%20Summary.png?raw=true)
+![Restaurants Page](https://github.com/rachelyellow/Pizza4Pickup/blob/master/public/Screenshots_Pizza4Pickup/Restaurant%20Page.png?raw=true)
 
 
 ## Dependencies
